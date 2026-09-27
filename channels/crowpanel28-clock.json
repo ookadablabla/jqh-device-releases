@@ -1,8 +1,8 @@
 {
-  "version": "2026.09.27.5",
-  "url": "https://raw.githubusercontent.com/ookadablabla/jqh-device-releases/main/firmware/crowpanel28-clock/2026.09.27.5/micropython.bin",
-  "size": 1358048,
-  "sha256": "4404facbf279ca417a5fe00215901d0e519f9575e1a75dd027108f86d1e61195",
-  "hmac": "bf53b32cdf448c74d41fe144d71cbdc25a23719cb7345fac586abf2ac2209533",
-  "built": 1790550298
+  "version": "2026.09.27.6",
+  "url": "https://raw.githubusercontent.com/ookadablabla/jqh-device-releases/main/firmware/crowpanel28-clock/2026.09.27.6/micropython.bin",
+  "size": 1360240,
+  "sha256": "3e4ce25ff388e59fe7cf60ec872d2604c1f67b0f053ee237244b312d30b4b7e5",
+  "hmac": "6514103d610bdc2217d91a230eede507f92b2e8bff88ee8eefa5b4caa9eefea9",
+  "built": 1790552786
 }
